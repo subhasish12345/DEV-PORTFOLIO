@@ -1,0 +1,7 @@
+{
+  "name": "Debadatta Swain - AI/ML Portfolio",
+  "description": "A stunning, modern portfolio for a Software Engineer specializing in AI/ML and Data Analytics, featuring an interactive AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
